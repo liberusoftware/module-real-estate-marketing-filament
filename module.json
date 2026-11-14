@@ -3,7 +3,7 @@
   "name": "real-estate-marketing-filament",
   "display_name": "Real Estate Marketing Filament",
   "description": "Filament resource for team-scoped marketing campaigns.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\RealEstate\\MarketingFilament\\MarketingFilamentServiceProvider",
   "requires": {
